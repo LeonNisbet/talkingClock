@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/LeonNisbet/talkingClock/issues"
   },
-  "homepage": "https://github.com/LeonNisbet/talkingClock#readme"
+  "homepage": "https://github.com/LeonNisbet/talkingClock#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "prettier": "2.6.2"
+  }
 }

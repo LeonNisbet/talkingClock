@@ -1,0 +1,25 @@
+{
+  "name": "talkingclock",
+  "version": "1.0.0",
+  "description": "Human readable clock challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonNisbet/talkingClock.git"
+  },
+  "keywords": [
+    "naffandroo",
+    "silviumihaila",
+    "hifrequency"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonNisbet/talkingClock/issues"
+  },
+  "homepage": "https://github.com/LeonNisbet/talkingClock#readme"
+}

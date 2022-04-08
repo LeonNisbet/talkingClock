@@ -1,3 +1,28 @@
+Run app:
+
+    npm start
+
+Run tests:
+
+    npm test
+
+Usage:
+
+Once running, GET requests can be made to the following endpoint:
+
+    http://localhost:3000/talkingClock
+
+Calling without any parameters will return current time in human readable format. 
+Alternatively, add the query parameter 'time' with a valid time in the format hh:mm.
+
+Example:
+
+    curl 'http://localhost:3000/talkingClock?time=12:30'
+
+This curl will return 'Half past twelve'
+
+Find challenge instructions below:
+
 Objective 1 
 Write a command-line program that returns the current time using the "Human Friendly Text" demonstrated in the example below. 
  

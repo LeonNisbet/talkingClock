@@ -1,3 +1,9 @@
+Run app in command line:
+
+    node src/run.js <time>
+
+Where <time> is an optional argument that must be a valid time in the format hh:mm
+
 Run app:
 
     npm start
